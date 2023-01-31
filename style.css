@@ -1,0 +1,14 @@
+body {
+    color: #f07d0aa9;
+    background: black;
+    font-family: Tahoma, Arial, sans-serif;
+    font-weight: normal;
+    font-size: 30px;
+    font-style: italic;
+}
+
+a {
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+}
